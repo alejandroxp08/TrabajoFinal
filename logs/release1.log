@@ -1,0 +1,80 @@
+commit f5ea7c66dd51e66dbc7cbc7de6d80afea249c9aa
+Merge: 2d19313 5dbed80
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:05:34 2020 -0400
+
+    Merge branch 'feature5' into develop
+    
+    Caracteristica 5 lista.
+
+commit 5dbed8073596d0f6cec63eb4f6a0ca7bbc36dc44
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:05:01 2020 -0400
+
+    feature 5 release 1
+
+commit 2d19313d758e52474cbfe91d1b8f1d862a10c8d4
+Merge: 24f2fdc ee15b4c
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:02:27 2020 -0400
+
+    Merge branch 'feature4' into develop
+    
+    Caracteristica 4 lista.
+
+commit ee15b4c25f65913d5fba7e3731367544476d584a
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:02:05 2020 -0400
+
+    feature 4 release 1
+
+commit 24f2fdc1304c4ac99bc78d699b9cd4e5dd6599ce
+Merge: 61aed38 803be12
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:59:26 2020 -0400
+
+    Merge branch 'feature3' into develop
+    
+    Caracteristica 3 lista.
+
+commit 803be1249db5db1452a02dc0e8d48ec091fff0f7
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:58:30 2020 -0400
+
+    feature 3 release 1
+
+commit 61aed384d11f69fa0b98469c330f173888dd2fe2
+Merge: b80efb3 64c1d0a
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:55:50 2020 -0400
+
+    Merge branch 'feature2' into develop
+    
+    Caracteristica 2 lista
+
+commit 64c1d0ad7eafe204c2944a8e8b7b8f136ccad9ad
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:54:34 2020 -0400
+
+    feature 2 release 1
+
+commit b80efb3bbf3a51f951d62e0c7702d96aa435e27a
+Merge: c384dc8 fc132fe
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:32:52 2020 -0400
+
+    Merge branch 'feature1' into develop
+    
+    Caracteristica1 lista
+
+commit fc132fe2435ebf9d98fceceb2aefc5b63f790ef6
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:32:21 2020 -0400
+
+    feature 1 release 1
+
+commit c384dc8097d06893b6ba56f369d3f8aa869f9ef1
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:30:43 2020 -0400
+
+    Proyecto ANVORGUESA
