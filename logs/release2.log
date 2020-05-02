@@ -1,0 +1,383 @@
+commit 0ce5d7a6895774008e84ec6253360bdd174977aa
+Merge: f04d0ce f677334
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:39:06 2020 -0400
+
+    Merge branch 'release2'
+    
+    xd.
+
+commit f6773340126c62b93993f6f1ffb9e9893289884b
+Merge: 7593d23 42d94dd
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:38:08 2020 -0400
+
+    Merge branch 'develop' into release2
+    
+    xd.
+
+commit 42d94dde2945b272d9d918c4183e81285fcb91fc
+Merge: 71e5e68 6bcf199
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:37:26 2020 -0400
+
+    Merge branch 'feature10' into develop
+    
+    xd.
+
+commit 6bcf19960d34dad9344d8e200aa7e51b7a907b56
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:36:46 2020 -0400
+
+    feature 10 release 2
+
+commit 7593d23e8525008c97c410cc62bc81030df4f2f9
+Merge: 83f8475 71e5e68
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:33:27 2020 -0400
+
+    Merge branch 'develop' into release2
+    
+    xd.
+
+commit 71e5e68b41d025245424bfdb3ada87f15d3d158a
+Merge: 64e8772 430cfe4
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:32:56 2020 -0400
+
+    Merge branch 'feature9' into develop
+    
+    xd.
+
+commit 430cfe4544196199839e80f98fde689ba6798dd0
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:32:18 2020 -0400
+
+    feature 9 release 2
+
+commit 83f84757ed410a81a9a68489d03390e0bde17466
+Merge: 2f70caf 64e8772
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:29:06 2020 -0400
+
+    Merge branch 'develop' into release2
+    
+    osho.
+
+commit 64e87726eab718f80fc39d5d73eca9c361ac197a
+Merge: 663a10d f826061
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:25:02 2020 -0400
+
+    Merge branch 'hotfix2' into develop
+    
+    xd.
+
+commit f04d0cedc329f711eeebce273a7c279d7edf2a9c
+Merge: 841bcea f826061
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:24:05 2020 -0400
+
+    Merge branch 'hotfix2'
+    
+    xd.
+
+commit f826061ffdc825c9877ce4a610ba9aafee327e31
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:22:46 2020 -0400
+
+    fixed app
+
+commit 4743edd30ebd8079a1a7ae8787ddd1d98cd1c800
+Merge: 841bcea 663a10d
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:20:53 2020 -0400
+
+    Merge branch 'develop' into hotfix2
+    
+    xd.
+
+commit 663a10d504c2e2bc76ac8ae200f8df21e74d0098
+Merge: 54d5a76 48e717a
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:20:11 2020 -0400
+
+    Merge branch 'feature8' into develop
+    
+    xd.
+
+commit 48e717aaa19babc6c73980db24f27b0e898cb012
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:13:59 2020 -0400
+
+    feature 8 release 2
+
+commit 2f70caf8a57850448faf6b5a323b59cb2be93731
+Merge: 4b8f3a5 54d5a76
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:10:31 2020 -0400
+
+    Merge branch 'develop' into release2
+    
+    Arreglado papa.
+
+commit 54d5a76d5e4a26d0d0d9d2db8a013b29b17a77a8
+Merge: 98b0a5d bc9025a
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:09:37 2020 -0400
+
+    Merge branch 'hotfix2' into develop
+    
+    Nice.
+
+commit 841bceac88810ac41d65fbc39c7c3225c8106831
+Merge: 7048083 bc9025a
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:08:17 2020 -0400
+
+    Merge branch 'hotfix2'
+    
+    Arreglado feature 5-2.
+
+commit bc9025a17afaee09e8e3da1a2f7bfce3e370605d
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:07:01 2020 -0400
+
+    fixed feature 5 release 2
+
+commit 4b8f3a593894d0cf7bfc4e6efcd6db5446eaec8d
+Merge: 9cbeb6e 98b0a5d
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 04:00:38 2020 -0400
+
+    Merge branch 'develop' into release2
+    
+    xd.
+
+commit 98b0a5da7f8c7e2e8c487b4eb13a57d89a908d60
+Merge: 0390aaa bc4ee37
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:59:37 2020 -0400
+
+    Merge branch 'feature7' into develop
+    
+    xd.
+
+commit bc4ee37fbeb1197c4389896eaf6914ea38fd1717
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:59:12 2020 -0400
+
+    feature 7 release 2
+
+commit 9cbeb6e0403e7a8a8769215ad94af3d64a7e2517
+Merge: c64c550 0390aaa
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:55:11 2020 -0400
+
+    Merge branch 'develop' into release2
+    
+    Aqui esta tu caracteristica xd.
+
+commit 0390aaaeeaab0f63e11deb92579fc0da096c26fd
+Merge: 72a96d5 27579d0
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:53:48 2020 -0400
+
+    Merge branch 'feature6' into develop
+    
+    Caracteristica 6 lista.
+
+commit 27579d0a5e946cee7dcbe41ef6f8cbd6c3bb5ad9
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:53:01 2020 -0400
+
+    feature 6 release 2
+
+commit c64c55042cc0e5d45b84e067929a74d12cbdd920
+Merge: f5ea7c6 72a96d5
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:46:27 2020 -0400
+
+    Merge branch 'develop' into release2
+    
+    Pinches clientes controladores.
+
+commit 72a96d5fcce39f2dc861ae720439b7c07651d0db
+Merge: 4d195f1 7048083
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:44:04 2020 -0400
+
+    Merge branch 'hotfix2' into develop
+    
+    Caracteristica 2-2 solucionada.
+
+commit 4d195f1dc595344ca65294bd30ca12be05eeea96
+Merge: 1a6bbc1 47ce29c
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:40:36 2020 -0400
+
+    Merge branch 'feature5' into develop
+    
+    Caracteristica5-2 lista.
+
+commit 47ce29ca866fc65462f2ef065916b242d6dcc6d3
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:40:01 2020 -0400
+
+    feature 5 release 2
+
+commit 1a6bbc18255915cf90fe2b59241baa222355e49e
+Merge: 9ce951e 75ba4b3
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:33:55 2020 -0400
+
+    Merge branch 'feature4' into develop
+    
+    Caracteristica4-2 lista.
+
+commit 75ba4b305405ce7a2ec62137497406dee74d0f96
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:33:28 2020 -0400
+
+    feature 4 release 2
+
+commit 9ce951eb3eefb5787a5ee45206b195f77db8630a
+Merge: 9703a9b 0a5671b
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:26:13 2020 -0400
+
+    Merge branch 'feature3' into develop
+    
+    caracteristica3-3 lista.
+
+commit 0a5671b2e7e6d06a813dd13cd44aa391b18a8134
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:25:33 2020 -0400
+
+    feature 3 release 2
+
+commit 9703a9b1f39a97cea6b6afa0f92761a92bfb9e93
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:19:32 2020 -0400
+
+    fixed feature 2 released 2
+
+commit eec6c66da1621e4040d5bfdee8080d1e6620e4aa
+Merge: 1ffeef1 703eb0e
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:04:41 2020 -0400
+
+    Merge branch 'feature2' into develop
+    
+    caracteristica2-2 lista.
+
+commit 703eb0e9c839485d7b1d971659940e85be5e747a
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 03:02:49 2020 -0400
+
+    feature 2 release 2
+
+commit 1ffeef12933e592305b9fab7ccda349e282c001d
+Merge: f5ea7c6 0c63a32
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:58:44 2020 -0400
+
+    Merge branch 'feature1' into develop
+    
+    caracteristica1-2 lista.
+
+commit 0c63a3265b5f828582d4242db154080cc3859893
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:56:41 2020 -0400
+
+    feature 1 release 2
+
+commit 7048083467c2a3da5948d4def24edd965202c940
+Merge: c384dc8 f5ea7c6
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:32:20 2020 -0400
+
+    Merge branch 'release1'
+    
+    Release 1 listo.
+
+commit f5ea7c66dd51e66dbc7cbc7de6d80afea249c9aa
+Merge: 2d19313 5dbed80
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:05:34 2020 -0400
+
+    Merge branch 'feature5' into develop
+    
+    Caracteristica 5 lista.
+
+commit 5dbed8073596d0f6cec63eb4f6a0ca7bbc36dc44
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:05:01 2020 -0400
+
+    feature 5 release 1
+
+commit 2d19313d758e52474cbfe91d1b8f1d862a10c8d4
+Merge: 24f2fdc ee15b4c
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:02:27 2020 -0400
+
+    Merge branch 'feature4' into develop
+    
+    Caracteristica 4 lista.
+
+commit ee15b4c25f65913d5fba7e3731367544476d584a
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 02:02:05 2020 -0400
+
+    feature 4 release 1
+
+commit 24f2fdc1304c4ac99bc78d699b9cd4e5dd6599ce
+Merge: 61aed38 803be12
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:59:26 2020 -0400
+
+    Merge branch 'feature3' into develop
+    
+    Caracteristica 3 lista.
+
+commit 803be1249db5db1452a02dc0e8d48ec091fff0f7
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:58:30 2020 -0400
+
+    feature 3 release 1
+
+commit 61aed384d11f69fa0b98469c330f173888dd2fe2
+Merge: b80efb3 64c1d0a
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:55:50 2020 -0400
+
+    Merge branch 'feature2' into develop
+    
+    Caracteristica 2 lista
+
+commit 64c1d0ad7eafe204c2944a8e8b7b8f136ccad9ad
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:54:34 2020 -0400
+
+    feature 2 release 1
+
+commit b80efb3bbf3a51f951d62e0c7702d96aa435e27a
+Merge: c384dc8 fc132fe
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:32:52 2020 -0400
+
+    Merge branch 'feature1' into develop
+    
+    Caracteristica1 lista
+
+commit fc132fe2435ebf9d98fceceb2aefc5b63f790ef6
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:32:21 2020 -0400
+
+    feature 1 release 1
+
+commit c384dc8097d06893b6ba56f369d3f8aa869f9ef1
+Author: alejandroxp08 <alejandroxp08@gmail.com>
+Date:   Sat May 2 01:30:43 2020 -0400
+
+    Proyecto ANVORGUESA
